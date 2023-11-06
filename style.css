@@ -15,11 +15,11 @@ h1 {
 p {
     text-align: center;
 }
+em strong{
+    color: rgb(247, 0, 255);
+}
 #missao{
     font-size: 20px;
-}
-em strong {
-    color :rgb(186, 17, 17)
 }
 .itens {
        font-style: italic;
